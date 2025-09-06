@@ -14,4 +14,5 @@ Imagine effortlessly tracking all changes in your research papers, seamlessly co
 Join the digital revolution, elevate your academic game, and inspire the next generation to do the same!
 
 Sincerely,
-Vicki Bealman# 
+Vicki Bealman
+![](/Users/vickibealman/Desktop/git-and-github-for-faculty/images/Vicki-Transparent.jpg)
