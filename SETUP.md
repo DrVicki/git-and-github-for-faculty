@@ -41,7 +41,7 @@ Download and install Git from the official Git website.
 ``git --version``
 
 ## Creating a GitHub Account
-- Visit [GitHub]([Duck Duck Go](https://github.com/)), click on "Sign up," and create a free GitHub account.
+- Visit [GitHub](https://github.com/), click on "Sign up," and create a free GitHub account.
 
 ## Configuring Git
 It is important to configure Git with personal information to associate commits correctly with your GitHub account.
