@@ -15,4 +15,6 @@ Join the digital revolution, elevate your academic game, and inspire the next ge
 
 Sincerely,
 Vicki Bealman
+
+
 ![](https://github.com/DrVicki/git-and-github-for-faculty/blob/main/images/imageedit_2_4161236629.png)
