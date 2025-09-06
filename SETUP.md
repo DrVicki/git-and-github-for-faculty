@@ -2,10 +2,13 @@
 
 ## Locating and Using the Terminal
 **Windows**:
+
 Option 1: Command Prompt
 - Click on the "Start" button.
 - Type cmd in the search bar and press Enter.
+
 This will open the Command Prompt, which can be used for Git commands.
+
 
 Option 2: Git Bash
 - Git for Windows comes with a built-in terminal called Git Bash, which emulates a Linux-like command-line environment.
