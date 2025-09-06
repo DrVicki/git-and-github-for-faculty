@@ -1,16 +1,17 @@
 # Set Up Git & GitHub
 
 ## Locating and Using the Terminal
+
 **Windows**:
 
-Option 1: Command Prompt
+### Option 1: Command Prompt
 - Click on the "Start" button.
 - Type cmd in the search bar and press Enter.
 
 This will open the Command Prompt, which can be used for Git commands.
 
 
-Option 2: Git Bash
+### Option 2: Git Bash
 - Git for Windows comes with a built-in terminal called Git Bash, which emulates a Linux-like command-line environment.
 - After installing Git, click on the "Start" button.
 - Type Git Bash in the search bar and press Enter.
@@ -48,6 +49,7 @@ It is important to configure Git with personal information to associate commits 
 - In the terminal, set up the user name and email:
 
 ``git config --global user.name "Your Name"``
+
 ``git config --global user.email "your_email@example.com"``
 
 These commands personalize the commits with your GitHub account details.
