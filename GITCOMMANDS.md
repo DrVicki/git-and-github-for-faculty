@@ -5,11 +5,12 @@
   - Open a new terminal window.
   - Type;
 
-        ```mkdir my-workshop-repo
-        cd my-workshop-repo
-        git init
-            ```
-    - Explanation
+```
+mkdir my-workshop-repo
+cd my-workshop-repo
+git init
+```
+**Explanation**
  ``mkdir my-workshop-repo``
 **What it does**: This command creates a new directory (folder) named ``my-workshop-repo``.
 **Purpose**: It is used to organize files and projects. In this case, you're creating a folder where your workshop repository will be stored.
