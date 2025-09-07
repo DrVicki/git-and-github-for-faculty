@@ -26,6 +26,8 @@ You'll learn how to:
 - Click "**Create repository**."
 
 2. Clone the Repository Locally
+- Open new terminal.
+
 ``git clone https://github.com/YourUsername/my-markdown-blog.git``
 
 - Replace ``YourUsername`` with your actual GitHub username.
