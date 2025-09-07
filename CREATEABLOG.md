@@ -46,7 +46,8 @@ You'll learn how to:
 - Create a new Markdown file with a specific naming convention: ``YYYY-MM-DD-title.md``, for example:
 ``touch 2023-10-25-my-first-blog-post.md``
 - Write Your Post Content
-    - Open your Markdown file in a text editor (e.g., VSCode, Sublime Text):
+    - Open your Markdown file in a text editor (e.g., **CodeSpace**, VSCode, Sublime Text):
+        - We will use GitHub **CodeSpace**
     - Begin writing your content in the file:
 ```
 ---
