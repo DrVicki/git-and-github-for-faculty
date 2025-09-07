@@ -13,10 +13,13 @@ git init
 **Explanation**
  ``mkdir my-workshop-repo``
 **What it does**: This command creates a new directory (folder) named ``my-workshop-repo``.
+
 **Purpose**: It is used to organize files and projects. In this case, you're creating a folder where your workshop repository will be stored.
+
 **Key points**:
 ``mkdir`` stands for "make directory."
-After running this command, you'll have a new folder named ``my-workshop-repo`` in your current location.
+
+- After running this command, you'll have a new folder named ``my-workshop-repo`` in your current location.
 "In your current location": When you run this command in a terminal or command prompt, it creates the new folder in the directory you're currently navigating. Every terminal session has a "current working directory," which you can think of as the folder you're currently "inside" in a file explorer.
 Result: After executing the command, you'll have a new folder named "my-workshop-repo" in this current working directory. You can change your working context (change directory) to this new folder using a command like cd my-workshop-repo, allowing you to work within it, such as initializing a Git repository or creating files.
 cd my-workshop-repo
