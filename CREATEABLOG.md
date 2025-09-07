@@ -95,6 +95,18 @@ Stay tuned for more updates!
 
 8. Expand Your Blog
 - Add More Posts: Repeat the process to add more posts to the ``_posts`` directory.
-Customize: Optionally, add a CNAME file for a custom domain or customize using Jekyll themes for a more sophisticated look.
-Conclusion:
-With just a few files and some basic Markdown knowledge, you've set up a simple, yet effective blog using GitHub Pages. This workflow introduces Markdown, Git version control, and the concept of static site generation, a skill set that's valuable for both professional documentation and personal projects.
+
+- Customize: Optionally, add a CNAME file for a custom domain or customize using Jekyll themes for a more sophisticated look.
+
+## Conclusion:
+With just a few files and some basic Markdown knowledge, you've set up a simple, yet effective blog using GitHub Pages. 
+
+This workflow introduces Markdown, Git version control, and the concept of static site generation, a skill set that's valuable for both professional documentation and personal projects.
+
+### Time to Celbrate!
+
+**Congratulations!!**
+
+Vicki Bealman
+
+![](https://github.com/DrVicki/git-and-github-for-faculty/blob/main/images/imageedit_2_4161236629.png)
