@@ -48,13 +48,14 @@ You'll learn how to:
 - Write Your Post Content
     - Open your Markdown file in a text editor (e.g., VSCode, Sublime Text):
     - Begin writing your content in the file:
-
+```
 ---
 layout: post
 title: "My First Blog Post"
 date: 2025-09-09
 categories: blog update
 ---
+```
 ​
 # Welcome to My First Faculty Blog Post!
 ​
