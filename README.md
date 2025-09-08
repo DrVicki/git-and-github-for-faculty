@@ -1,4 +1,4 @@
-# git-and-github-for-faculty
+# Git and GitHub for Faculty
 
 # Why Should Faculty Use Git & GitHub
 ## Unlock the Future of Academic Collaboration: Why Faculty Should Embrace Git and GitHub
@@ -12,6 +12,11 @@ Imagine effortlessly tracking all changes in your research papers, seamlessly co
 - Students gain hands-on experience with industry-standard practices, which are invaluable as they embark on their careers in tech, academia, or any field that values collaboration and efficient project management.
 
 Join the digital revolution, elevate your academic game, and inspire the next generation to do the same!
+
+1. [Setup](https://github.com/DrVicki/git-and-github-for-faculty/blob/main/SETUP.md)
+2. [Git Commands](https://github.com/DrVicki/git-and-github-for-faculty/blob/main/GITCOMMANDS.md)
+3. [Work with GutHub](https://github.com/DrVicki/git-and-github-for-faculty/blob/main/WORKWITHGITHUB.md)
+4. [Create a Blog](https://github.com/DrVicki/git-and-github-for-faculty/blob/main/CREATEABLOG.md)
 
 Sincerely,
 Vicki Bealman
